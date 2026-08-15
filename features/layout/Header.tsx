@@ -14,10 +14,10 @@ export default function Header() {
           Про нас
         </a>
         <a href="#" className="text-sm tracking-wide uppercase hover:text-black">
-          Процес
+          Контакт
         </a>
         <a href="#" className="text-sm tracking-wide uppercase hover:text-black">
-          Контакт
+          Увійти
         </a>
       </nav>
     </header>

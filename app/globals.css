@@ -1,6 +1,15 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
 html,
 body {
   background-color: #fafaf7;
+}
+
+.swiper-pagination-bullet {
+  background: white;
+  opacity: 0.5;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 1;
 }
