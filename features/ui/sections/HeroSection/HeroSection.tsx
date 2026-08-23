@@ -19,7 +19,7 @@ export default function HeroSection() {
 
           <h1 className="text-5xl md:text-6xl font-serif leading-tight mb-6">
             <Image src="/img/nuko_transparent_logo.svg" width={200} height={200} alt="nuko_logo" loading="eager"></Image>
-            aesthetic accessories
+            <span className="mt-[10px] tracking-tight block">aesthetic accessories</span>
           </h1>
           <p className="text-gray-600 max-w-md mb-8">
             Sculptural accessories <br />
