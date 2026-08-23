@@ -17,7 +17,7 @@ export default function Collections() {
         </h1>
       </div>
 
-      <div className="flex flex-row gap-3 items-center mb-16">
+      <div className="flex flex-row gap-3 items-center mb-16 ml-[20%]">
         {categories.map((category) => {
           return (
             <button
